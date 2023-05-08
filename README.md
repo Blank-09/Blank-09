@@ -66,15 +66,11 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
-     <img src="https://github-readme-stats.vercel.app/api?username=blank-09&show_icons=true&locale=en&count_private=true&hide_border=true" alt="blank-09" />
-    </td>
-    <td> 
-       <img src ="https://github-readme-streak-stats.herokuapp.com/?user=blank-09&hide_border=true" />
-    </td>
-  </tr>
-</table>
+## 📊 GitHub Status
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blank-09&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> -->
+<img src="https://github-readme-stats.vercel.app/api?username=blank-09&show_icons=true&locale=en&count_private=true&hide_border=true" alt="blank-09" />
+
+<img src ="https://github-readme-streak-stats.herokuapp.com/?user=blank-09&hide_border=true" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blank-09&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
