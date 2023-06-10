@@ -5,20 +5,24 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/Priyans55205224">
-    <img alt="followers" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://linkedin.com/in/priyanshu-t">
+    <img alt="LinkedIn" title="LinkedIn Profile" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://blank-09.github.io/">
     <img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
   </a>
-  <a href="https://linkedin.com/in/priyanshu-t">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://github.com/blank-09">
+    <img alt="GitHub Views" title="GitHub Views" src="https://komarev.com/ghpvc/?username=Blank-09&style=for-the-badge"/>
   </a>
 </p>
 
 ![Rainbow Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ## 💫 **About Me:**
+
+- 🏫 I'm studying in SKCET College, India.
+
+- 🎓 I'm in B.Tech IT 1st year.
 
 - 🌱 I’m currently learning **Blockchain ;)**
 
