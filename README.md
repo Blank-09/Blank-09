@@ -22,7 +22,7 @@
 
 - 🏫 I'm studying in SKCET College, India.
 
-- 🎓 I'm in B.Tech IT 1st year.
+- 🎓 I'm in B.Tech IT 2nd year.
 
 - 🌱 I’m currently learning **Blockchain ;)**
 
