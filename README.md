@@ -24,7 +24,7 @@
 
 - 🎓 I'm in B.Tech IT 2nd year.
 
-- 🌱 I’m currently learning **Blockchain ;)**
+- 🌱 I’m currently learning to make **Full Stack Projects ;)**
 
 - 📫 How to reach me [**priyanshu9943@gmail.com**](mailto:priyanshu9943@gmail.com)
 
